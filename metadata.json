@@ -1,0 +1,6 @@
+{
+  "name": "MockupCraft Studio",
+  "description": "Upload your logo and preview it seamlessly on realistic product mockups like mugs, t-shirts, and apparel, with AI generation and editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
